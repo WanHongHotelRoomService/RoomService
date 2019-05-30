@@ -1,0 +1,40 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Style-Type" content="text/css" /><meta name="generator" content="Aspose.Words for .NET 15.1.0.0" /></head><body style="background:#ffffff"><div>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">隐私协议</span>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">万宏酒店客房服务注重保护用户个人信息及个人隐私。本隐私权保护声明解释了用户个人信息收集和使用的相关情况，本隐私权保护声明适用于万宏酒店客房服务的所有相关服务。</span>
+
+<span style="color:#333333; font-family:'Songti SC Bold'; font-size:13pt">一、</span><span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">您个人信息的收集</span>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">万宏酒店客房服务为用户提供多平台的互联网服务。在您使用万宏酒店客房服务服务时，经您的同意，我们收集与个人行为有关的信息，例如喜欢、订阅和收藏等。如果您无法提供此类信息，可能会不能使用对应的服务。我们也会基于优化用户体验的目的，收集其他相关的信息。例如当用户访问万宏酒店客房服务网站，我们收集哪些网页的受欢迎程度、浏览器软件信息等以便优化我们的网站服务。</span>
+
+<span style="color:#333333; font-family:'Songti SC Bold'; font-size:13pt">二、</span><span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">您个人信息的管理</span>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">万宏酒店客房服务会在如下情形使用您的个人信息：（</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">1</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">）符合法律法规的要求；（</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">2</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">）根据您的授权；（</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">3</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">）符合万宏酒店客房服务相关服务条款，软件许可使用协议的约定；万宏酒店客房服务不会未经允许向第三方披露您的个人信息。除非满足下述情形之一</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">:(1)</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">根据法律法规的规定；</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">(2)</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">符合您与万宏酒店客房服务之间的相关服务条款、软件许可使用协议的约定。</span>
+
+<span style="color:#333333; font-family:'Songti SC Bold'; font-size:13pt">三、</span><span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">您个人信息的安全</span>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">万宏酒店客房服务严格保护您的个人信息安全。我们使用各种制度，安全技术和程序等措施来保护您的个人信息不被未经授权的访问、使用或泄露。如果您对我们的个人信息保护有任何疑问，请联系我们。</span>
+
+<span style="color:#333333; font-family:'Songti SC Bold'; font-size:13pt">四、</span><span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">访问您的个人信息</span>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">如果您通过账号使用万宏酒店客房服务相关服务，您可以查阅或编辑您提交给万宏酒店客房服务的个人信息。一般情况下，您可随时浏览，修改自己提交的信息。</span>
+
+<span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">五</span><span style="color:#333333; font-family:'Songti SC Bold'; font-size:13pt">、</span><span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">COOKIE</span><span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">的使用</span>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">万宏酒店客房服务使用</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">来帮助您实现您的联机体验的个性化。</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">是由网页服务器存放在您的访问设备上的文本文件。指定给您的</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">只有一个，它只能被</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">发布给您的域中的</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Web</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">服务器读取。</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">的主要用途之一是提供一种节约时间的实现功能。例如，如果您将万宏酒店客房服务的网页个性化，</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">会帮助您在后续访问时调用您的信息。万宏酒店客房服务可以调用您以前所提供的信息，使您能够容易地使用您自定义的功能。您有权接受或拒绝</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">。大多数浏览器会自动接受</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">，但您通常可根据您自己的需要来修改浏览器的设置以拒绝</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">。如果选择拒绝</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">Cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">，那么您可能无法完全体验所访问的万宏酒店客房服务服务或网站的互动功能。</span>
+
+<span style="color:#333333; font-family:'Songti SC Bold'; font-size:13pt">六、</span><span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">网络</span><span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">BEACON</span><span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">的使用</span>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">万宏酒店客房服务网页上常会包含一些电子图像（称为</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">“</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">单像素</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">”</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">GIF</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">文件或</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">“</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">网络</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">beacon</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">”</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">），它们可以帮助网站计算浏览网页的用户或访问某一些</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">。万宏酒店客房服务使用网络</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">beacon</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">的方式有：</span>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">1.</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">万宏酒店客房服务通过在其网站上使用网络</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">beacon</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">，计算用户访问数量，并通过访问</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">辨认注册用户。</span>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">2.</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">万宏酒店客房服务通过得到的</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">cookie</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">信息，可以再万宏酒店客房服务网站提供个性化服务。</span>
+
+<span style="color:#333333; font-family:'Songti SC Bold'; font-size:13pt">七、</span><span style="color:#00003e; font-family:'PingFang SC Semibold'; font-size:13pt">未成年人的个人信息保护</span>
+
+<span style="font-family:'PingFang SC Regular'; font-size:13pt">万宏酒店客房服务非常重视对未成年人个人信息的保护。若您是</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">18</span><span style="font-family:'PingFang SC Regular'; font-size:13pt">周岁以下的未成年人，在使用万宏酒店客房服务的服务前，应事先取得您家长或法定监护人的书面同意。万宏酒店客房服务根据国家相关法律法规的规定保护未成年人的个人信息。万宏酒店客房服务会不时更新本隐私保护声明。我们会在网页上发布对隐私权声明所做的变更内容。</span>
+</div><div class="cnzz" style="display: none;">
+            </div>
+            </body></html>
